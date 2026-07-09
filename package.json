@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-devops-app",
+  "version": "1.0.0",
+  "description": "Node.js DevOps Demo Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Jerry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
