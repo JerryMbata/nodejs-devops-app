@@ -90,6 +90,7 @@ pipeline {
 
         stage('Update Manifest') {
             steps {
+               
                 sh '''
                 export HOME=/var/lib/jenkins
                 export GIT_SSH_COMMAND="ssh -o StrictHostKeyChecking=no"
@@ -112,4 +113,4 @@ pipeline {
                 git push
                 '''
     }
- } 
+}  
