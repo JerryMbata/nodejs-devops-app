@@ -15,6 +15,8 @@ app.get("/", (req, res) => {
             <li>Kubernetes</li>
             <li>ArgoCD</li>
             <li>GitHub</li>
+
+	<h1>I HOPE I DID WELL MR JETHRON.. LOL...</h1>
         </ul>
     `);
 });
