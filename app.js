@@ -51,7 +51,7 @@ app.get("/", (req, res) => {
 
             <div class="footer">
                 <h3>Built by Jerry Mbata</h3>
-                <p>Special thanks to Mr. Jethron for the guidance and mentorship.</p>
+                <p>Special thanks to Mr. Jethro for the guidance and mentorship.</p>
             </div>
 
         </body>
